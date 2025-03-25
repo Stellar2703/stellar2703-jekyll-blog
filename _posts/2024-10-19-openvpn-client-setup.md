@@ -31,4 +31,4 @@ OpenVPN client config file naming convention.
 1. Download and install the openvpn windows client from [openvpn.net]([OpenVPN Connect Client | Our Official VPN Client | OpenVPN](https://openvpn.net/vpn-client/)) and import the smounesh-homelab.ovpn file
 
 ## Refernces:
-* [[OpenVPN in LXC - Proxmox VE](https://pve.proxmox.com/wiki/OpenVPN_in_LXC)]([OpenVPN in LXC - Proxmox VE](https://pve.proxmox.com/wiki/OpenVPN_in_LXC))
+* [[OpenVPN in LXC - Proxmox VE]]
