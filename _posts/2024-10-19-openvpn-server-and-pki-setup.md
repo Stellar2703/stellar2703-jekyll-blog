@@ -2,7 +2,7 @@
 title: "OpenVPN Server"
 date: 2024-10-19 00:00:00 +0800
 categories: [VPN]
-image: assets/images/mysql.png
+image: assets/images/vpn.png
 tags: [OpenVPN Server]
 ---  
 1. Openvpn is used to create  secure ssl/tls vpn tunnels which provides secure access to remote servers and other programs running on those servers
