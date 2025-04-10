@@ -2,6 +2,7 @@
 title: "OvenVPN-client"
 date: 2024-10-19 00:00:00 +0800
 categories: [VPN]
+image: assets/images/mysql.png
 tags: [OpenVPN Client]
 ---  
 # OpenVPN client setup:

@@ -2,6 +2,7 @@
 title: "Mysql Master"
 date: 2024-09-20 00:00:00 +0800
 categories: [DevOps]
+image: assets/images/mysql.png
 tags: [Master Slave]
 ---  
 # Ubuntu 20.04 MySQL 8.0 (not MariaDB!)

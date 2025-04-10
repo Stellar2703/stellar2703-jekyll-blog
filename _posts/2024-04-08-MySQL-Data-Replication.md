@@ -2,6 +2,7 @@
 title: "Mysql Replication"
 date: 2023-03-03 00:00:00 +0800
 categories: [DevOps]
+image: assets/images/mysql.png
 tags: [Replication]
 ---  
 **MASTER : 172.16.0.211**

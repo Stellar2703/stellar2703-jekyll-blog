@@ -2,6 +2,7 @@
 title: "Docker Commands"
 date: 2024-12-16 00:00:00 +0800
 categories: [DevOps]
+image: assets/images/docker.jpg
 tags: [Docker Commands]
 ---  
 1. **docker –version**

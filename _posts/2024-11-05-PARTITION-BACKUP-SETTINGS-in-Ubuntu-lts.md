@@ -2,6 +2,7 @@
 title: "Partition and Backup"
 date: 2024-11-05 00:00:00 +0800
 categories: [Linux]
+image: assets\images\ubuntu-linux.jpg
 tags: [Partition,Backup]
 ---
 # PARTITION SETTING
