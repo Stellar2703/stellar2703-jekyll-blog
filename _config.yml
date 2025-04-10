@@ -16,7 +16,7 @@ timezone: Asia/Kolkata
 
 title: Shashwath # the main title
 
-tagline: Dare to Make a Difference 💕 # it will display as the subtitle
+tagline: Dare to Make a Difference 🔥 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -98,11 +98,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://media.licdn.com/dms/image/v2/D5603AQF-RpG_-dLJzg/profile-displayphoto-shrink_400_400/B56ZSuEbbqHsAg-/0/1738087186273?e=1747872000&v=beta&t=hNjyq6zzx9KcNGzbK6WwE4_8OOkq61v11F6EnG93Clk
+avatar: https://avatars.githubusercontent.com/u/159768160?v=4
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image: https://avatars.githubusercontent.com/u/159768160?v=4
 
 # boolean type, the global switch for TOC in posts.
 toc: true
