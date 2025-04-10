@@ -2,7 +2,7 @@
 title: "Docker Notes"
 date: 202-02-12 00:00:00 +0800
 categories: [DevOps]
-image: assets/imagesdocker.jpg
+image: assets/images/imagesdocker.jpg
 tags: [Docker notes]
 ---  
 IMAGE : A single file with all the deployments and configurations required to run a program is called an image
