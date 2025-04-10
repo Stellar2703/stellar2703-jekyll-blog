@@ -2,7 +2,7 @@
 title: "Reset Ubuntu Pwd"
 date: 2023-02-03 00:00:00 +0800
 categories: [Linux]
-image: assets\images\ubuntu-linux.jpg
+image: assets/images/ubuntu-linux.jpg
 tags: [Password Reset]
 ---
 ### Method 1: Reset Password Using Recovery Mode

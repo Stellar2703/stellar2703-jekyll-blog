@@ -2,7 +2,7 @@
 title: "Change IP Address in Ubuntu Server System"
 date: 2023-03-03 00:00:00 +0800
 categories: [Linux]
-image: assets\images\ubuntu-linux.jpg
+image: assets/images/ubuntu-linux.jpg
 tags: [IP Address]
 ---
  
