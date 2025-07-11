@@ -1,6 +1,6 @@
 ---
 title: "CI&CD in AWS"
-date: 2025-04-11 00:00:00 +0800
+date: 2025-02-28 00:00:00 +0800
 categories: [DevOps]
 image: assets/images/images.png
 tags: [Pipelines]

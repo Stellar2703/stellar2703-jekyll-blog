@@ -1,6 +1,6 @@
 ---
 title: "Docker Notes"
-date: 202-02-12 00:00:00 +0800
+date: 2024-08-06 00:00:00 +0800
 categories: [DevOps]
 image: assets/images/docker.jpg
 tags: [Docker notes]
