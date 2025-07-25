@@ -3,6 +3,7 @@ title: "Complete AWS VPC Setup Guide"
 date: 2025-08-06
 categories: [AWS, Networking, Cloud]
 tags: [aws, vpc, networking, cloud, guide]
+image: assets/images/images.png
 ---
 
 # Complete AWS VPC Setup Guide
@@ -38,7 +39,6 @@ We'll create a VPC with the following architecture:
 - **NAT Gateways** for private subnet internet access
 - **Route Tables** for traffic routing
 
-![[ChatGPT Image Aug 5, 2025, 09_54_53 AM.png]]
 
 ## Step-by-Step VPC Setup
 
