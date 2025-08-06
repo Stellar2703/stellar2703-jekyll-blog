@@ -3,6 +3,7 @@ title: "Launching AWS EC2 Instances"
 date: 2025-07-18
 categories: [Cloud,AWS ]
 tags: [aws, ec2, cloud, instance, launch]
+image: assets/images/images.png
 ---
 
 - AMI - Amazon Machine Instances - Marketplace of all the operating systems
